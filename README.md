@@ -1,4 +1,4 @@
-# 🚌 Next-Generation Smart Bus Entry System Using Computer Vision & IoT
+# 🚌 Next-Generation Smart College Bus Entry System Using Computer Vision & IoT
 
 An AI and IoT-based smart transportation system that enhances college bus security using **Face Recognition**, **QR Code Validation**, **GPS Tracking**, and **Passenger Counting**. The system helps prevent unauthorized bus access while providing real-time monitoring and notifications for students and administrators.
 
